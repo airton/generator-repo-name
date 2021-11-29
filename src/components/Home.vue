@@ -1,6 +1,6 @@
 <template>
 	<div class="min-h-full flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
-		<div class="max-w-md w-full space-y-8">
+		<div class="max-w-lg w-full space-y-8">
 			<div>
         <img class="mx-auto h-12 w-auto" src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg" alt="Workflow">
         <h2 class="mt-6 text-center text-3xl font-extrabold text-gray-900">
@@ -41,7 +41,7 @@
         <div class="flex items-center border-b border-teal-500 py-2">
           <div class="col-span-3 sm:col-span-2">
             <label for="company-website" class="block text-sm font-medium text-gray-700">
-              Preview: {{startupName}}-{{projectType}}-{{projectName}}
+              Preview:
             </label>
             <div class="mt-1 flex">
               <span class="block w-full bg-white border border-gray-400 px-4 py-2 pr-6 rounded shadow leading-tight text-gray-400">
