@@ -57,6 +57,6 @@
 
 <script>
 export default {
-	name: "Smaples"
+	name: "Samples"
 }
 </script>

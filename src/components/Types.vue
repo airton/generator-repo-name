@@ -9,7 +9,7 @@
 		</div>
 		<div class="flex items-center mb-5">
 			<span class="block text-center w-1/6 bg-white border border-gray-400 px-4 py-2 rounded shadow leading-tight">app</span>
-			<p class="px-4 py-2 w-5/6">Esse seria usado para projetos contendo o <span class="font-bold">App</span> da aplicação, onde o usuário instala no seu celular o aplicativo.</p>
+			<p class="px-4 py-2 w-5/6">Esse seria usado para projetos contendo o <span class="font-bold">App Mobile</span> da aplicação, onde o usuário instala no seu celular o aplicativo.</p>
 		</div>
 		<div class="flex items-center mb-5">
 			<span class="block text-center w-1/6 bg-white border border-gray-400 px-4 py-2 rounded shadow leading-tight">api</span>
@@ -17,7 +17,7 @@
 		</div>
 		<div class="flex items-center mb-5">
 			<span class="block text-center w-1/6 bg-white border border-gray-400 px-4 py-2 rounded shadow leading-tight">job</span>
-			<p class="px-4 py-2 w-5/6">Esse seria usado para projetos contendo <span class="font-bold">Serviço</span>, que fazem integração com parceiros...</p>
+			<p class="px-4 py-2 w-5/6">Esse seria usado para projetos contendo algum<span class="font-bold">Serviço</span>, que fazem integração com parceiros...</p>
 		</div>
 		<div class="flex items-center mb-5">
 			<span class="block text-center w-1/6 bg-white border border-gray-400 px-4 py-2 rounded shadow leading-tight">edge</span>
