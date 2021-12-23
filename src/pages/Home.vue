@@ -5,6 +5,9 @@
 			<Form />
 			<Types />
 			<Samples />
+      <div class="flex items-center justify-center border-t border-teal-500 pt-5">
+        <p class="text-center text-gray-600">Made by iq tech team ❤️</p>
+      </div>
 		</div>
   </div>
 </template>
