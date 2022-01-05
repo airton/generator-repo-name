@@ -5,6 +5,7 @@
 			<Form />
 			<Types />
 			<Samples />
+			<GoodPractices />
       <div class="flex items-center justify-center border-t border-teal-500 pt-5">
         <p class="text-center text-gray-600">Made by iq tech team ❤️</p>
       </div>
@@ -17,6 +18,7 @@ import Header from "/src/components/Header.vue"
 import Form from "/src/components/Form.vue"
 import Types from "/src/components/Types.vue"
 import Samples from "/src/components/Samples.vue"
+import GoodPractices from "/src/components/GoodPractices.vue"
 
 export default {
   name: "Home",
@@ -24,7 +26,8 @@ export default {
     Header,
     Form,
     Types,
-    Samples
+    Samples,
+    GoodPractices
   }
 }
 </script>
